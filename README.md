@@ -1,6 +1,9 @@
 # Raspite
 
-![Raspite Logo](/static/example.png)
+<p align="center">
+  <img width="128" height="128" src="/static/example.png">
+</p>
+
 A minimalist shoutbox with permalinks - plus a simple landing page.
 
 ## Installation
