@@ -1,7 +1,6 @@
 # Raspite
 
 ![Raspite Logo](/static/example.png)
-
 A minimalist shoutbox with permalinks - plus a simple landing page.
 
 ## Installation
