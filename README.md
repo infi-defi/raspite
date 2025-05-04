@@ -8,7 +8,7 @@ A minimalist shoutbox with permalinks - plus a simple landing page.
 
 ## Installation
 
-First, [install Hugo](https://gohugo.io/getting-started/install/).
+First, [install Hugo](https://gohugo.io/installation/).
 
 ```bash
 # clone the repo
