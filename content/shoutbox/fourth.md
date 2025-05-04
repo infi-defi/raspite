@@ -1,6 +1,5 @@
 +++
 date = '2025-05-03T17:15:29+03:00'
-draft = true
 title = 'Fourth'
 +++
 ### Change up your site's color scheme!
